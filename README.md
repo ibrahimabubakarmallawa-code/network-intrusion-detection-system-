@@ -1,4 +1,14 @@
 # Network Intrusion Detection System
+## Project Objectives
+
+- Analyse network packet information.
+- Summarize network traffic.
+- Detect potentially suspicious activities.
+- Record security incidents using Python logging.
+
+## Current Status
+
+Beginner-level prototype using sample network packet data.
 
 ## Overview
 This project focuses on detecting suspicious
