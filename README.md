@@ -20,5 +20,12 @@ activities within a computer network.
 - Networking
 - Cybersecurity
 
+## Technologies Used
+
+- Python
+- Git
+- GitHub
+- Basic Network Security Concepts
+
 ## Author
 Ibrahim Abubakar
